@@ -53,44 +53,45 @@ The **News Classification and Recommendation Agent** utilizes two key models to 
 
 ## News Classification Demo Instructions
 
-1. Start the Demo:
+1. **Start the Demo**:
    The demo begins by printing a welcoming message on the screen. You will be prompted to enter search terms.
 
-2. Fetch News Articles:
+2. **Fetch News Articles**:
    After entering the search terms, the demo will fetch news articles related to the provided keywords. The program will fetch up to 20 articles using the search terms provided.
 
-3. Specify Your Goal (Optional):
+3. **Specify Your Goal (Optional)**:
    You will be asked whether you have a specific goal in mind.
 
 - If you choose `yes`, you will be asked to describe your goal (e.g., "Sell Cloud Services").
 
-4. Fetch Relevant Articles (If a Goal is Provided):
+4. **Fetch Relevant Articles (If a Goal is Provided)**:
    If you specified a goal, the program will fetch articles that are most relevant to that goal. The program will search through the fetched articles to find the ones that best match your goal.
    **Output:** It will display two articles that could be relevant to your goal.
 
-5. Classify News Articles (If No Goal is Provided):
+5. **Classify News Articles (If No Goal is Provided)**:
    If you do not have a specific goal, the demo will classify the articles based on predefined categories such as:
 
 - Collaboration/Partnership
 - Industry Growth/Trends
 - Leadership Change
 
-The program uses a language model to classify the headlines of the fetched news articles.
-**Output:** The articles will be classified, and the program will then proceed to allow you to sort them based on the categories.
+   The program uses a language model to classify the headlines of the fetched news articles.
+  
+   **Output:** The articles will be classified, and the program will then proceed to allow you to sort them based on the categories.
 
-6. Sort the Articles:
+6. **Sort the Articles**:
    After the classification step, you will be prompted to choose how to sort the articles. The available options are:
 
-**Sort by Collaboration/Partnership**
-**Sort by Industry Growth/Trends**
-**Sort by Leadership Change**
-**Exit the demo**
+- **Sort by Collaboration/Partnership**
+- **Sort by Industry Growth/Trends**
+- **Sort by Leadership Change**
+- **Exit the demo**
 
-**Output:** The top articles for the selected category will be displayed.
+   **Output:** The top articles for the selected category will be displayed.
 
-## 7. Repeat or Exit:
+7. **Repeat or Exit**:
 
-After sorting and displaying the results, the program will prompt you again to choose a sort option or exit.
+   After sorting and displaying the results, the program will prompt you again to choose a sort option or exit.
 
 ---
 
