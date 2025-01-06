@@ -1,6 +1,6 @@
 # News Classification Demo
 
-This repository demonstrates using the OpenAI ChatGPT API to build a simple classification application.
+This repository demonstrates using the BAAI/bge-reranker-v2-gemma and OpenAI ChatGPT API to build a classification application.
 
 ## Prerequisites
 - **Python**: Version 3.12.8
