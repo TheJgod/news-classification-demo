@@ -1,4 +1,3 @@
-Python 3.12.8
 # News Classification Demo
 
 This repository demonstrates using the OpenAI ChatGPT API to build a simple classification application.
