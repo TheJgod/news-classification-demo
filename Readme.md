@@ -1,4 +1,22 @@
 Python 3.12.8
+# News Classification Demo
+
+This repository demonstrates using the OpenAI ChatGPT API to build a simple classification application.
+
+## Prerequisites
+- **Python**: Version 3.12.8
+ 
+## Setup
+- Install Requirements
+  ```bash
+  pip install -r requirements.txt
+  ```
+- Setup a env file for the openai API key (OPENAI_API_KEY)
+
+## Run
+```bash
+python Terminal.py
+```
 
 ## Agent Architecture and Decision-Making Process
 
